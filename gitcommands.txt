@@ -1,0 +1,25 @@
+1  mkdir gitbasic
+    2  gitbasic
+    3  cd gitbasic
+    4  git --version
+    5  git init
+    6  dir
+    7  git status
+    8  git log
+    9  git add 1.txt
+   10  git add 1.txt.txt
+   11  git status
+   12  git log
+   13  git status
+   14  git add 1.txt
+   15  git rm --cached 1.txt
+   16  ls
+   17  git add 1.txt
+   18  git status
+   19  git commit
+   20  git config --global user.email "bhosaleprajakta297@gmail.com"
+   21  git config --global user.name "Prajakta"
+   22  git commit
+   23  git status
+   24  git log
+   25  history
